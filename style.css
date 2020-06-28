@@ -1,0 +1,46 @@
+body{
+    background-color: lightgrey;
+}
+#header a:hover{
+color: #fff;
+}
+#bg-img{
+    background: url(https://www.quantilus.com/wp-content/uploads/2018/08/hiring-an-app-developer.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 500px;
+}
+#About{
+    margin-top: -200px;
+}
+#About .fa{
+    color: white;
+}
+#About span{
+    padding: 10px 20px 10px 20px;
+}
+#About hr{
+    border-width: 2px;
+    margin-top: 6px;
+}
+#Skills span{
+    padding: 10px 20px 10px 20px;
+}
+#Skills hr{
+    border-width: 2px;
+    margin-top: 6px;
+}
+#My-Projects span{
+    padding: 10px 20px 10px 20px;  
+}
+#My-Projects hr{
+    border-width: 2px;
+    margin-top: 6px;
+}
+#Contact span{
+    padding: 10px 20px 10px 20px;  
+}
+#Contact hr{
+    border-width: 2px;
+    margin-top: 6px;
+}
